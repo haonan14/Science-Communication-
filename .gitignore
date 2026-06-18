@@ -1,0 +1,6 @@
+# Exclude raw PDF folders (PDFs are in zip files tracked by LFS)
+Journal of Science Communication/Journal of Science Communication/
+Public Understanding of Science/Public Understanding of Science/
+Science Communication/Science_communication/
+
+.DS_Store
